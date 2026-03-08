@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ドラえもんのうた",
+  "base_artist": "東京プリン",
+  "createdAt": "2026-03-08T06:00:35.961590Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ドラえもんのうた (feat. Nobuyo Ooyama)",
+      "artist": "大杉久美子",
+      "has_synced": false,
+      "path": "select/01_ドラえもんのうた_(feat._Nobuyo_Ooyama)_大杉久美子.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドラえもんのうた",
+      "artist": "大杉久美子",
+      "has_synced": false,
+      "path": "select/02_ドラえもんのうた_大杉久美子.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ドラえもんのうた",
+      "artist": "Satoko Yamano feat. 大山のぶ代",
+      "has_synced": false,
+      "path": "select/03_ドラえもんのうた_Satoko_Yamano_feat._大山のぶ代.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ドラえもんのうた",
+      "artist": "山野さと子",
+      "has_synced": false,
+      "path": "select/04_ドラえもんのうた_山野さと子.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ドラえもんのうた",
+      "artist": "東京プリン",
+      "has_synced": false,
+      "path": "select/05_ドラえもんのうた_東京プリン.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ドラえもんのうた",
+      "artist": "AJI",
+      "has_synced": false,
+      "path": "select/06_ドラえもんのうた_AJI.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ドラえもんのうた",
+      "artist": "東京プリン",
+      "has_synced": true,
+      "path": "select/07_ドラえもんのうた_東京プリン.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ドラえもんのうた",
+      "artist": "大杉久美子・大山のぶ代",
+      "has_synced": false,
+      "path": "select/08_ドラえもんのうた_大杉久美子・大山のぶ代.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ドラえもんのうた",
+      "artist": "Oosugi, Kumiko、Ooyama, Nobuyo",
+      "has_synced": false,
+      "path": "select/09_ドラえもんのうた_Oosugi,_Kumiko、Ooyama,_Nobuyo.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ドラえもんのうた",
+      "artist": "山野さと子",
+      "has_synced": true,
+      "path": "select/10_ドラえもんのうた_山野さと子.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ドラえもんのうた",
+      "artist": "Tokyo Purin",
+      "has_synced": false,
+      "path": "select/11_ドラえもんのうた_Tokyo_Purin.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ドラえもんのうた",
+      "artist": "渡辺美里",
+      "has_synced": true,
+      "path": "select/12_ドラえもんのうた_渡辺美里.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ドラえもんのうた 40th",
+      "artist": "水田わさび (ドラえもん) feat. 大原めぐみ (のび太), かかずゆみ (しずか), 木村昴 (ジャイアン) & 関智一 (スネ夫)",
+      "has_synced": false,
+      "path": "select/13_ドラえもんのうた_40th_水田わさび_(ドラえもん)_feat._大原めぐみ_(のび太),_かかずゆみ_(しずか),_木村昴_(ジャイアン)_&_関智一_(スネ夫).txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ドラえもんのうた (OP)",
+      "artist": "水野愛日",
+      "has_synced": true,
+      "path": "select/14_ドラえもんのうた_(OP)_水野愛日.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドラえもんのうた",
+      "artist": "東京プリン",
+      "has_synced": false,
+      "path": "select/pl_01_ドラえもんのうた_東京プリン.txt"
+    }
+  ]
+}
